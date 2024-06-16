@@ -1,0 +1,377 @@
+body{
+    background-color: whitesmoke;
+}
+.job{
+    color:gray;
+    height:100px;
+}
+.web{
+    color:midnightblue;
+}
+.name{
+    
+    height:300px;
+    font-family:"Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 85px;
+    color:rgb(62, 68, 67);
+    position: relative;
+    left:60px;
+    text-shadow: 2px 4px 6px rgb(83, 81, 81);
+}
+.name :hover{
+  color:#ccc;
+}
+    
+.about-me{
+    
+    height:200px;
+    
+}
+.me{
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    float: right;
+    margin:50px;
+    position: relative;
+    bottom: 450px;
+}
+.about-me>p{
+    position:relative;
+    
+    left:60px;
+    width:50%;
+    color:gray;
+    font-size:30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+
+.c{
+    height:500px;
+}
+
+
+.c-img{
+    height:300px;
+    width:350px;
+    float: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+    cursor:pointer;
+
+
+}
+.c>h1{
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color:rgb(33, 38, 43);
+    position: relative;
+    top:150px;
+    left:400px;
+    text-shadow: 2px 2px 4px #5F6368;
+   
+
+}
+.cplusplus{
+    height:500px
+
+}
+.cplusplus-img{
+    height:300px;
+    width:400px;
+    float: left;
+    margin-right: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+    cursor:pointer;
+
+
+}
+.cplusplus>h1{
+    font-weight: 900;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    top:150px;
+    font-size: 40px;
+    color:rgb(33, 38, 43);
+    text-shadow: 2px 2px 4px #5F6368;
+   
+
+}
+.sql{
+  height:500px;
+}
+
+
+.sql-img{
+  height:300px;
+  width:300px;
+  float: right;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  cursor:pointer;
+
+
+}
+.sql>h1{
+  font-weight: 300;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  color:rgb(33, 38, 43);
+  position: relative;
+  top:150px;
+  left:200px;
+  text-shadow: 2px 2px 4px #5F6368;
+ 
+
+}
+.html{
+  height:500px
+
+}
+.hyper-img{
+  height:300px;
+  width:300px;
+  float: left;
+  margin-right: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  cursor:pointer;
+
+
+}
+.html>h1{
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  top:150px;
+  font-size: 60px;
+  color:rgb(33, 38, 43);
+  text-shadow: 2px 2px 4px #5F6368;
+
+}
+
+.css{
+  height:500px;
+}
+
+
+.cascade-img{
+  height:300px;
+  width:300px;
+  float: right;
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  cursor:pointer;
+
+}
+
+.css>h1{
+  font-weight: 300;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+  color:rgb(33, 38, 43);
+  position: relative;
+  top:150px;
+  left:600px;
+  text-shadow: 2px 2px 4px #5F6368;
+ 
+
+}
+.javascript{
+  height:500px
+
+}
+.js-img{
+  height:300px;
+  width:300px;
+  float: left;
+  margin-right: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  cursor:pointer;
+  
+
+}
+.javascript>h1{
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  top:150px;
+  font-size: 50px;
+  color:rgb(33, 38, 43);
+  text-shadow: 2px 2px 4px #5F6368;
+ 
+
+}
+.react{
+  height:500px
+
+}
+.react-img{
+  height:300px;
+  width:300px;
+  float: right;
+  margin-right: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  cursor:pointer;
+
+
+}
+.react>h1{
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  top:150px;
+  left:600px;
+  font-size: 50px;
+  color:rgb(33, 38, 43);
+  text-shadow: 2px 2px 4px #5F6368;
+
+}
+.topnav {
+    background-color: whitesmoke;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: darkgray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+   
+    color: rgb(50, 54, 54);
+  }
+  
+  #icon-bar {
+    height:fit-content;
+    display:flex;
+    justify-content: end;
+    align-content: end;
+    width: 100%; 
+    background-color:rgba(245, 245, 245, 0);
+    overflow: auto;
+    
+  }
+  
+  #icon-bar a {
+    float: left; 
+    text-align: center; 
+    width:5%; 
+    padding: 12px 0;
+    transition: all 0.3s ease; 
+     
+    font-size: 36px; 
+  }
+  
+  .fa:hover{
+    color: rgb(50, 54, 54);
+  }
+  .fa-linkedin{
+    color: #0A66C2;
+  }
+  .fa-facebook-official{
+    color:#1877F2;
+  }
+  .fa-twitter{
+    color:#1DA1F2;
+  }
+  .fa-instagram{
+    color: #E4405F;
+  }
+  .fa-github{
+    color:#171515;
+  }
+  .fa-envelope-open{
+    color:#00a2ed;
+  }
+  .fa-book{
+    color:lightgreen;
+  }
+ 
+  #about{
+    height: 500px;
+    background-color: whitesmoke;
+  }
+  .bio{
+    color:rgb(70, 63, 63);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+  }
+  #about>p{
+    color:rgb(146, 137, 137);
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+
+  }
+  .pic{
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    margin:50px;
+  }
+  .college{
+    color:gray;
+    
+  }
+  .college:hover{
+    color:midnightblue;
+  }
+  
+  
+  .hobbies{
+    color:rgb(70, 63, 63);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    
+
+    
+  }
+  #about>ul{
+    color:rgb(146, 137, 137);
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+
+  }
+  #about .fa{
+    color:rgb(73, 73, 75)
+
+  }
+  .material-icons{
+    color:#5F6368;
+    
+  }
+  .material-icons:hover{
+    color:black;
+
+  }
+  .profile{
+    height:230px;
+    width:200px;
+    border-radius:50%;
+    float:right;
+    margin-right: 250px;
+    position: relative;
+    bottom:320px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 51, 51, 0.19);
+  }
+
+  
+
+  
+  
+  
